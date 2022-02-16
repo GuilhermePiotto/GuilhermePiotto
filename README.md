@@ -1,2 +1,1 @@
-Formado em tecnólogo mecatrônico com paixão em programação.
-Estudando cada vez mais sobre banco de dados, utilizando a lingaguem Python como preferida.
+Programa desenvolvido em .NET com o objetivo de criar um catalogo de jogos.
