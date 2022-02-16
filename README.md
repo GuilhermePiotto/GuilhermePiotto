@@ -1,2 +1,2 @@
 Formado em tecnólogo mecatrônico com paixão em programação.
-Estou engajando mais sobre banco de dados
+Estudando cada vez mais sobre banco de dados, utilizando a lingaguem Python como preferida.
