@@ -13,11 +13,7 @@
   <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
 </div>
 
-<div align="center">
-  <a href="https://github.com/GuilhermePiotto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermePiotto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermePiotto&layout=compact&langs_count=7&theme=dark"/>
-</div>
+
 
 
 <div style="display: inline_block"><br>
@@ -37,6 +33,6 @@
 
   <a href="https://www.linkedin.com/in/guilherme-rocha-piotto-220604129/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/GuilhermePiotto/GuilhermePiotto/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/GuilhermePiotto/GuilhermePiotto/blob/output/github-contribution-grid-snake.svg)
  
-</div>
+
